@@ -30,6 +30,7 @@ Hi there :wave:, I'm Eleven, striving to be full stack developer (now working on
 
 **OS & WM**<br>
 ![Manjaro Linux](https://img.shields.io/badge/-Manjaro%20Linux-333333?style=flat&logo=manjaro)
+![Ubuntu Linux](https://img.shields.io/badge/-Ubuntu%20Linux-333333?style=flat&logo=ubuntu)
 ![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=macos)
 
 **Development Tools**<br>
