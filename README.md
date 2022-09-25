@@ -9,7 +9,9 @@ Hi there :wave:, I'm Eleven, striving to be full stack developer (now working on
 - [Twitter](https://twitter.com/ElevenS79)
 
 ## About me
+
 - 🌱 I’m currently learning Refactor & TDD
+- 🔭 There are three years of development experience in front-end and one year of Ruby on Rails.
 
 ## Tech Stack
 **Backend**<br>
